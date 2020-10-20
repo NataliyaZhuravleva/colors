@@ -1,0 +1,40 @@
+.light-theme {
+  color: #000000;
+  border-color: black;
+  background-color: #ffffff;
+}
+
+.dark-theme {
+  color: #ffffff;
+  border-color: #ffffff;
+  background-color: #000000;
+}
+
+.btn-li {
+  border-color: #000000;
+  background-color: #ffffff;
+}
+
+.btn-da {
+  border-color: #000000;
+  background-color: #ffffff;
+}
+
+.highlight-par {
+  background-color: #ffff00;
+  border: 2px solid #ff0000;
+  border-color: #ff0000;
+}
+
+
+/*.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}*/
